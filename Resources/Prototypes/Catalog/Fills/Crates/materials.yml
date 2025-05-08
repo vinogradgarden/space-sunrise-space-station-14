@@ -99,11 +99,13 @@
   id: CrateMaterialPaper
   parent: CrateGenericSteel
   name: paper crate
-  description: 90 sheets of paper.
+  description: 90 sheets of paper and 3 tubes of inc.
   components:
   - type: StorageFill
     contents:
       - id: SheetPaper
+        amount: 3
+      - id: DrinkInc
         amount: 3
 
 - type: entityTable

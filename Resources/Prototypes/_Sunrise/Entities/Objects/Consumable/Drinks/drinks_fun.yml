@@ -21,10 +21,10 @@
   - type: SolutionContainerManager
     solutions:
       drink:
-        maxVol: 30
+        maxVol: 60
         reagents:
         - ReagentId: Inc
-          Quantity: 30
+          Quantity: 60
   - type: SolutionContainerVisuals
     maxFillLevels: 6
     fillBaseName: fill
