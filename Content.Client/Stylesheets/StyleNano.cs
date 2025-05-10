@@ -609,6 +609,7 @@ namespace Content.Client.Stylesheets
             var paperBackground = new StyleBoxTexture
             {
                 Texture = resCache.GetTexture("/Textures/Interface/Paper/paper_background_default.svg.96dpi.png"),
+                // Sunrise-Edit
                 // Modulate = Color.FromHex("#eaedde"), // A light cream
                 Modulate = Color.FromHex("#ffffff"), // White
             };

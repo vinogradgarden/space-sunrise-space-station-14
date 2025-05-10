@@ -29,7 +29,7 @@
     head: ClothingHeadHatBeretBlueShield
     outerClothing: ClothingOuterArmorBlueShield
     id: BlueShieldOperativePDA
-    ears: ClothingHeadsetBlueShieldEnsign
+    ears: ClothingHeadsetCentCom
     belt: ClothingBeltBlueShieldWebbingFilled
     gloves: ClothingHandsGlovesCombat
     neck: ClothingBSMantle
