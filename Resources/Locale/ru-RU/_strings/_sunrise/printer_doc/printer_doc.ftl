@@ -71,4 +71,4 @@ doc-template-error-loading-form-header-name = ОШИБКА загрузки за
 doc-template-notice-of-liquidation-name = УВЕДОМЛЕНИЕ о ликвидации
 doc-template-business-deal-name = ДЕЛОВАЯ СДЕЛКА
 doc-template-note-beginning-military-actions-name = ЗАМЕТКА о начале военных действий
-doc-template-report-accomplishment-goals-name = ОТЧеТ о достижении целей
+doc-template-report-accomplishment-goals-name = ОТЧЕТ о достижении целей
